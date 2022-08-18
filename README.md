@@ -20,4 +20,4 @@
  </a>
  </div>
 
-#### 𓂃♡. Obrigada pela visita! .♡𓂃</div>
+#### <div align="center"> 𓂃♡. Obrigada pela visita! .♡𓂃 </div>
