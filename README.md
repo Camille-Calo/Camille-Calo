@@ -1,4 +1,4 @@
-### Oioi! Eu sou a Camille! ✨
+### Oioi, eu sou a Camille! ✨
 
 - Computer Engineering student;
 - Game development enthusiast;
@@ -11,8 +11,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Cami-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg>
-  <img align="center" alt="Cami-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">        
+  <img align="center" alt="Cami-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">         
+  <img align="center" alt="Cami-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">          
   <img align="center" alt="Cami-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">        
   <img align="center" alt="Cami-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">       
 </div>
@@ -20,4 +20,4 @@
   ##
 
 <div>
-- Learning `.js` , `.c` ;
+- Learning: `.js`,`.c`;
