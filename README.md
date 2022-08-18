@@ -1,6 +1,6 @@
 ### Oioi, eu sou a Camille!
 
-- Computer Engineering student;
+- Computer engineering student;
 - Game development enthusiast;
 - Free time digital artist;
 
