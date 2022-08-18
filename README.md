@@ -13,7 +13,7 @@
 
 ###### * Learning: `.js`, `.c`;
 
-<div>
+<div align="center">
 <a href="https://github.com/Camille-Calo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Camille-Calo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camille-Calo&theme=dracula&hide_border=false&&layout=compact"/>
